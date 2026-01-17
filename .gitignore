@@ -1,0 +1,22 @@
+﻿# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Node modules
+node_modules/
+
+# Conda/virtual environments
+env/
+*.conda
+*.env
+
+# Large datasets (optional)
+*.csv
+*.xlsx
+
+# System files
+.DS_Store
+Thumbs.db
