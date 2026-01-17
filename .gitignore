@@ -1,22 +1,9 @@
-﻿# Python cache
 __pycache__/
 *.pyc
-
-# Jupyter notebooks checkpoints
+*.pyo
 .ipynb_checkpoints/
-
-# Node modules
 node_modules/
-
-# Conda/virtual environments
-env/
-*.conda
-*.env
-
-# Large datasets (optional)
-*.csv
-*.xlsx
-
-# System files
+.env
+emotion_model.pt
 .DS_Store
 Thumbs.db
